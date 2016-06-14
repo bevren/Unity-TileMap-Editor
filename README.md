@@ -1,4 +1,4 @@
-# Unit Basic TileMap Editor
+# Unity Basic TileMap Editor
 
 WIP
 
